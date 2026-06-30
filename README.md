@@ -14,3 +14,11 @@ Este es un sistema de backend robusto diseñado para el control, auditoría e in
 * **Formularios Dinámicos con Validaciones Fuertes:** Los operadores pueden registrar ingresos y egresos de stock con manejo limpio de excepciones directo en la interfaz.
 * **API RESTful de Producción:** Endpoint expuesto en `/api/productos/` que entrega datos en formato JSON nativo para integraciones externas de sistemas de monitoreo.
 
+## 🚀 Instalación y Ejecución Local
+
+Sigue estos pasos para clonar el proyecto y ejecutarlo en tu entorno local:
+
+1 **Clonar el repositorio y acceder a la carpeta:**
+   ```bash
+   git clone [https://github.com/fvdeiny/sistemas-inventario-django.git](https://github.com/fvdeiny/sistemas-inventario-django.git)
+   cd sistemas-inventario-django
